@@ -29,6 +29,12 @@ Conceptual differences
 
 * Similarities
 
+* compiled 
+
+* types
+
+Go and C++ have *static* *typing* , but only Go is *type* *safe*
+
 * Syntax
 
 * Concepts
