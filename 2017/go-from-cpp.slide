@@ -1,0 +1,39 @@
+From C++ to Go
+
+
+* Outline
+
+Similarities
+
+Syntactic differences
+
+Conceptual differences
+
+- Memory management
+
+- Reflection
+
+- OOP concepts in Go?
+
+- Concurrency
+
+- Ecosystem
+
+* Similarities
+
+* Syntax
+
+* Concepts
+
+* Any Questions?
+
+* Notes
+
+The slides are available on [[https://github.com/aurelien-rainone/talks]]
+
+Served with `present` [[https://godoc.org/golang.org/x/tools/cmd/present]]
+
+* The end
+
+.image go-from-cpp/img/cpp.jpg 100 _
+.image go-from-cpp/img/gopher.beret.png 200 _
